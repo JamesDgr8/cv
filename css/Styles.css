@@ -1,0 +1,86 @@
+/*///////////////////////////////////////TAG SELECTORS////////////////////////////////*/
+body {
+  margin: 0;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Petemoss', cursive;
+}
+
+h1 {
+  font-size: 80px;
+  margin-top: 0;
+  font-family: 'Comforter', cursive;
+}
+
+h2 {
+  margin-top: 0;
+  font-family: 'Comforter', cursive;
+}
+
+h3 {
+  margin-top: 0;
+  font-family: 'Petemoss', cursive;
+}
+
+p {
+  margin: 0;
+  font-size: 50px
+}
+
+hr {
+  color: black;
+  height: none;
+  width: 5%;
+  border-width: 10px;
+  border-style: dotted none;
+  border-top-style: none;
+}
+
+
+/*///////////////////////////////////////CLASS SELECTORS////////////////////////////////*/
+.top-container {
+  margin: 0;
+  background-color: rgb(40, 255, 191);
+  position: relative;
+  padding-top: 200px;
+}
+
+.heading {
+  position: relative;
+  bottom: 400px;
+}
+
+.grass {
+  position: relative;
+  top: 10px;
+}
+
+.jdgr8pic {
+  border-radius: 50%;
+}
+
+.middle-container {
+  margin: 0;
+  padding: 20px;
+  background-color: rgb(255, 80, 47);
+}
+
+.bottom-container {
+  margin: 0;
+  padding: 20px;
+  font-size: 20px;
+  background-color:  rgb(40, 255, 191);
+  font-family: Architects Daughter;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 250px;
+  /*///////////////////////////////////////ID SELECTORS////////////////////////////////*/
